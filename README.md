@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohd-Hussain-Ansari
 - 👀 I’m interested in developing android and web application
-- 🌱 I’m currently undergraduating in B.Sc Computer Science
+- 🌱 I’m currently post graduating in M.Sc Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
