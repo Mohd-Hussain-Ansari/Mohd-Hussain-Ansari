@@ -10,7 +10,7 @@ I'm a mobile app developer and computer science student with a passion for creat
 
 ### 💼 Experience
 
-- [Appoctet Technologies Pvt Ltd](https://www.appoctet.com/): [Mobile App Developer], [9 month experience {Present}]
+- [Appoctet Technologies Pvt Ltd](https://www.appoctet.com/): [Mobile App Developer], [May 2022 - Present]
 
 ### 🔨 Projects
 
