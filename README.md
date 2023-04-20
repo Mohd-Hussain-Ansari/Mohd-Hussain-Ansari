@@ -4,13 +4,13 @@ I'm a mobile app developer and computer science student with a passion for creat
 
 ### 🚀 Skills
 
-- Mobile Application Development (Android)
-- Web Development
+- Mobile Application Development
+- Node.js Development 
 - Logic Building
 
 ### 💼 Experience
 
-- [Appoctet Technologies Pvt Ltd](https://www.appoctet.com/): [Mobile App Developer], [May 2022 - Present]
+- [Appoctet Technologies Pvt Ltd](https://www.appoctet.com/): [Product Developer], [May 2022 - Present]
 
 ### 🔨 Projects
 
