@@ -1,9 +1,10 @@
 # Mohd. Hussain Ansari 👋  
 ### Backend Engineer (SDE 2) | Distributed Systems | Payments Architecture | AWS
 
-Building scalable backend systems powering commerce, subscriptions, real-time platforms, and financial workflows.
+Backend Engineer specializing in scalable financial systems, subscription lifecycle architecture, and real-time distributed platforms.
 
-Mumbai, India | Open to Remote & Product-Based Roles
+Mumbai, India | Open to Remote & Product-Based Roles  
+🌐 Portfolio → https://portfolio-three-rust-94.vercel.app/
 
 ---
 
@@ -133,13 +134,10 @@ University of Mumbai (2019 – 2022)
 ## 📬 Let's Connect
 
 LinkedIn:  
-https://www.linkedin.com/in/mohd-hussain-ansari-645068235
+https://www.linkedin.com/in/mohd-hussain-ansari
 
 Email:  
 mohd.hussainansari19@gmail.com
-
-HackerRank:  
-https://www.hackerrank.com/mohd_hussainans1
 
 ---
 
