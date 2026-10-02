@@ -4,8 +4,8 @@
 
 Real-time systems, payments, and the boring parts of money.
 
-Mumbai, India · 4+ years · open to Mumbai or remote  
-[Portfolio](https://hussainansari.dev/) · [LinkedIn](https://www.linkedin.com/in/mohd-hussain-ansari) · [mohd.hussainansari19@gmail.com](mailto:mohd.hussainansari19@gmail.com)
+Mumbai, India · 4+ years  
+[Portfolio](https://hussainansari.dev/) · [Résumé](https://hussainansari.dev/resume) · [LinkedIn](https://www.linkedin.com/in/mohd-hussain-ansari) · [mohd.hussainansari19@gmail.com](mailto:mohd.hussainansari19@gmail.com)
 
 ---
 
@@ -21,25 +21,25 @@ I also take on the migration and performance work nobody volunteers for — movi
 
 ## Selected work
 
-Architecture write-ups for each of these live on my [portfolio](https://mohd-hussain-ansari.vercel.app), with diagrams and the decisions behind them.
+Architecture write-ups for each of these live on my [portfolio](https://hussainansari.dev), with diagrams and the decisions behind them.
 
-**[Creator Subscription & Wallet Platform](https://mohd-hussain-ansari.vercel.app/work/subscription-wallet-platform)** — INK IN CAPS  
+**[Creator Subscription & Wallet Platform](https://hussainansari.dev/work/subscription-wallet-platform)** — INK IN CAPS  
 NestJS monorepo: five deployable apps, seven shared libs, MongoDB, Redis, BullMQ. Unified checkout across five payment providers behind signature-verified idempotent webhooks, a multi-recipient transaction ledger, and a two-bucket wallet separating spendable balance from escrowed creator earnings.  
 `3,000+ concurrent connections` · `~$462K/mo across ~7,700 transactions` · `30K+ users` · `−75% feed load time`
 
-**[Multi-Tenant Seller Marketplace](https://mohd-hussain-ansari.vercel.app/work/seller-marketplace)** — Brownliving @ AppOctet  
+**[Multi-Tenant Seller Marketplace](https://hussainansari.dev/work/seller-marketplace)** — Brownliving @ AppOctet  
 NestJS · MySQL · TypeORM. Seller operations, order management and Shopify sync, with a staged dump table as the idempotency boundary and carriers modelled as data rather than branches. OpenTelemetry into Signoz made the latency work measurable.  
 `800+ sellers migrated, zero data loss` · `2.7M records re-indexed` · `−25% query latency`
 
-**[Events & Booking Platform](https://mohd-hussain-ansari.vercel.app/work/events-booking)** — PlayAce @ AppOctet  
+**[Events & Booking Platform](https://hussainansari.dev/work/events-booking)** — PlayAce @ AppOctet  
 Express · MongoDB, serving a web client, a React Native app and an admin surface. Razorpay payouts and refunds, Onfido KYC driven by webhooks rather than polling, and operational alerts routed into Slack instead of a dashboard nobody checks.  
 `−40% admin response time` · `5 notification channels` · `3 clients from one backend`
 
-**[ONDC Logistics Network Integration](https://mohd-hussain-ansari.vercel.app/work/ondc-logistics)** — AppOctet  
+**[ONDC Logistics Network Integration](https://hussainansari.dev/work/ondc-logistics)** — AppOctet  
 NestJS · MySQL implementing India's Open Network for Digital Commerce protocol: pre-order, post-order, grievance (IGM) and reconciliation (RSP) domains behind cryptographic signature verification, with an adapter layer translating between the protocol and the carrier's existing API.  
 `certified with 5+ partner organisations` · `16 protocol services across 4 domains`
 
-**[Offline-First Rider App](https://mohd-hussain-ansari.vercel.app/work/rider-delivery-app)** — AppOctet  
+**[Offline-First Rider App](https://hussainansari.dev/work/rider-delivery-app)** — AppOctet  
 React Native for delivery riders working without reliable connectivity. SQLite is the on-device source of truth rather than a cache, and a sync engine routes each shipment by type crossed with outcome — because a failed pickup and a failed delivery settle differently.  
 `a full shift capturable offline` · `4 flows / 8 settlement routes` · `4 locales`
 
@@ -77,14 +77,14 @@ React Native for delivery riders working without reliable connectivity. SQLite i
 - `75%` faster home feed, transferring `~90%` less data
 - Led a `10`-member cross-functional team of back-end and QA engineers
 - Stakeholder and demo work with founders and clients across London, Dubai and Canada
-- **Star Performer — 2024 & 2025**, AppOctet Technologies
+- **Star Performer — 2024 & 2025**, AppOctet Technologies ([2024](https://hussainansari.dev/certificates/appoctet-star-performer-2024.jpg) · [2025](https://hussainansari.dev/certificates/appoctet-star-performer-2025.jpg))
 - **ONDC network certification** with 5+ partner organisations
 
 ---
 
 ## Public code
 
-Most of my production work from the last four years sits behind NDAs, so it isn't here. The architecture write-ups on my [portfolio](https://mohd-hussain-ansari.vercel.app) are the honest substitute — real systems, described in enough detail to be useful, without naming what I can't name.
+Most of my production work from the last four years sits behind NDAs, so it isn't here. The architecture write-ups on my [portfolio](https://hussainansari.dev) are the honest substitute — real systems, described in enough detail to be useful, without naming what I can't name.
 
 What is public:
 
@@ -100,17 +100,19 @@ University coursework, kept for the record rather than as a work sample:
 
 ## Education & certifications
 
-**B.Sc. Computer Science** — Ismail Yusuf College, University of Mumbai (2019 – 2022) · **First Rank**
+**B.Sc. Computer Science** — Ismail Yusuf College, University of Mumbai (2019 – 2022) · **First Rank** prize, final year ([certificate](https://hussainansari.dev/certificates/first-rank-bsc-computer-science-ismail-yusuf-college.jpg))
 
-- Generative AI Mastermind — OutSkill
+- [Generative AI Mastermind](https://hussainansari.dev/certificates/outskill-generative-ai-mastermind.jpg) — Outskill
+- [Associate in IT Foundation Skills (Java)](https://hussainansari.dev/certificates/infosys-springboard-it-foundation-skills-java.pdf) — Infosys Springboard, 2022
+- [Advanced Java Programming](https://hussainansari.dev/certificates/linkedin-learning-advanced-java-programming.pdf) — LinkedIn Learning, 2022
 - Problem Solving (Basic) — HackerRank
-- Algorithm Essentials — HackerRank
-- AI Tools Workshop — Be10x
+- Algorithm Essentials — CHM College, Ulhasnagar, 2021
+- [AI Tools Workshop](https://hussainansari.dev/certificates/be10x-ai-tools-workshop-2023.jpg) — Be10x, 2023
 
 ---
 
 ## Contact
 
-Open to back-end engineering roles, consulting, and interesting product conversations.
+Happy to talk back-end architecture, real-time systems or payments.
 
-[Portfolio](https://mohd-hussain-ansari.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mohd-hussain-ansari) · [mohd.hussainansari19@gmail.com](mailto:mohd.hussainansari19@gmail.com)
+[Portfolio](https://hussainansari.dev/) · [Résumé](https://hussainansari.dev/resume) · [LinkedIn](https://www.linkedin.com/in/mohd-hussain-ansari) · [mohd.hussainansari19@gmail.com](mailto:mohd.hussainansari19@gmail.com)
