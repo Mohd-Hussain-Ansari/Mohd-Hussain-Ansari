@@ -5,7 +5,7 @@
 Real-time systems, payments, and the boring parts of money.
 
 Mumbai, India · 4+ years · open to Mumbai or remote  
-[Portfolio](https://www.hussainansari.dev/) · [LinkedIn](https://www.linkedin.com/in/mohd-hussain-ansari) · [mohd.hussainansari19@gmail.com](mailto:mohd.hussainansari19@gmail.com)
+[Portfolio](https://hussainansari.dev/) · [LinkedIn](https://www.linkedin.com/in/mohd-hussain-ansari) · [mohd.hussainansari19@gmail.com](mailto:mohd.hussainansari19@gmail.com)
 
 ---
 
